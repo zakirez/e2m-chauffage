@@ -1,0 +1,1 @@
+{"name":"e2m-chauffage","private":true,"scripts":{"start":"node server.mjs","dev":"node server.mjs","build":"node generate.mjs"},"type":"module"}
